@@ -1,2 +1,3 @@
+third line of text 
 more text
 some text
